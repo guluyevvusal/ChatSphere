@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSphere.API", "ChatSphere.API\ChatSphere.API.csproj", "{796CC6E1-082C-4784-B481-2CD731DB8EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSphere.Application", "ChatSphere.Application\ChatSphere.Application.csproj", "{328F57A4-A991-49F5-9E60-7D54B454B22E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSphere.Domain", "ChatSphere.Domain\ChatSphere.Domain.csproj", "{788DD91C-8672-4D03-98C3-CA2F8995EA9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSphere.Infrastructure", "ChatSphere.Infrastructure\ChatSphere.Infrastructure.csproj", "{5F9B1EA2-8201-4019-AEB5-C74B11519E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSphere.Persistence", "ChatSphere.Persistence\ChatSphere.Persistence.csproj", "{6D7F70A8-CAC0-485F-9223-E1F073C8203F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiqnalR", "ChatSphere.SiqnalR\SiqnalR.csproj", "{9AE28F0F-01B1-44ED-B131-1C37281FF7D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatSphere.Tests", "ChatSphere.Tests\ChatSphere.Tests.csproj", "{00AA755F-E595-4B44-BAD2-53FB60F48481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{796CC6E1-082C-4784-B481-2CD731DB8EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796CC6E1-082C-4784-B481-2CD731DB8EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796CC6E1-082C-4784-B481-2CD731DB8EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796CC6E1-082C-4784-B481-2CD731DB8EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328F57A4-A991-49F5-9E60-7D54B454B22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328F57A4-A991-49F5-9E60-7D54B454B22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328F57A4-A991-49F5-9E60-7D54B454B22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328F57A4-A991-49F5-9E60-7D54B454B22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788DD91C-8672-4D03-98C3-CA2F8995EA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788DD91C-8672-4D03-98C3-CA2F8995EA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788DD91C-8672-4D03-98C3-CA2F8995EA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788DD91C-8672-4D03-98C3-CA2F8995EA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F9B1EA2-8201-4019-AEB5-C74B11519E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9B1EA2-8201-4019-AEB5-C74B11519E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9B1EA2-8201-4019-AEB5-C74B11519E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9B1EA2-8201-4019-AEB5-C74B11519E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7F70A8-CAC0-485F-9223-E1F073C8203F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7F70A8-CAC0-485F-9223-E1F073C8203F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7F70A8-CAC0-485F-9223-E1F073C8203F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7F70A8-CAC0-485F-9223-E1F073C8203F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE28F0F-01B1-44ED-B131-1C37281FF7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE28F0F-01B1-44ED-B131-1C37281FF7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE28F0F-01B1-44ED-B131-1C37281FF7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE28F0F-01B1-44ED-B131-1C37281FF7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AA755F-E595-4B44-BAD2-53FB60F48481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AA755F-E595-4B44-BAD2-53FB60F48481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AA755F-E595-4B44-BAD2-53FB60F48481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AA755F-E595-4B44-BAD2-53FB60F48481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD48632F-5FFB-4F5B-9915-311413E12784}
+	EndGlobalSection
+EndGlobal
