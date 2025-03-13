@@ -1,5 +1,14 @@
 This project is focused on building a real-time chat application and will work with full DevOps automation using SignalR, Redis, Docker, Kubernetes, Azure/AWS, CI/CD. Here I present a detailed plan for building and testing each component sequentially, you can see below.
 
+
+
+
+
+
+
+
+
+
 📌 Technologies and Architecture
 
 
