@@ -2,7 +2,6 @@ This project is focused on building a real-time chat application and will work w
 
 
 
-
 📌 Technologies and Architecture
 
 
