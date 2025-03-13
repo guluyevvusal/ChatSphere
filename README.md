@@ -3,13 +3,8 @@ This project is focused on building a real-time chat application and will work w
 
 
 
-
-
-
-
-
-
 📌 Technologies and Architecture
+
 
 
 .NET Core / ASP.NET Core Web API – Core technology for Backend
@@ -21,6 +16,8 @@ Entity Framework Core + SQL Server – Database and ORM
 Redis – For caching and fast data transfer
 
 Identity & JWT – User authentication and authorization
+
+
 
 
 📌 DevOps and Cloud Technologies:
@@ -111,6 +108,7 @@ Notification System – Push notifications
 Media Support – Image, video sending
 
 Message Reactions & Edit/Delete
+
 
 
 📌 Please give the repo a ⭐ and fork to support the project development! 
